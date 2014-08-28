@@ -1,0 +1,26 @@
+{
+	"name": "quest/cakephp-elephant.io",
+	"type": "cakephp-plugin",
+	"version": "1.0.0",
+	"description": "ElephantIO Plugin for CakePHP",
+	"keywords": ["cakephp", "utility", "elephant.io", "socket.io", "sockets", "component"],
+	"homepage": "https://github.com/quest/cakephp-elephant.io",
+	"license": "MIT",
+	"authors": [
+		{
+			"name": "Victor San Martín",
+			"email": "hola@victorsanmartin.com",
+			"homepage": "http://victorsanmartin.com"
+		}
+	],
+	"support": {
+		"issues": "https://github.com/quest/cakephp-elephant.io/issues",
+		"source": "https://github.com/quest/cakephp-elephant.io"
+	},
+	"require": {
+		"wisembly/elephant.io": "dev-refacto-3.0"
+	},
+	"config": {
+		"vendor-dir": "Vendor"
+	}
+}

@@ -4,7 +4,7 @@ for CakePHP 2.x
 
 ## Requirement ##
 
-* PHP version: PHP 5.3+
+* PHP version: PHP >=5.4
 * CakePHP version: 2.x Stable
 * Composer
 

@@ -18,7 +18,7 @@
 		"source": "https://github.com/quest/cakephp-elephant.io"
 	},
 	"require": {
-		"wisembly/elephant.io": "dev-refacto-3.0"
+		"wisembly/elephant.io": "master"
 	},
 	"config": {
 		"vendor-dir": "Vendor"
